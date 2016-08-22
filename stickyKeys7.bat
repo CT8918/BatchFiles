@@ -1,5 +1,6 @@
 ::Batch File to create options Enable or Disable Sticky Keys.
 ::Initial Creator: Clayton D. Terrill - May need updated for future. Valid as of August 2016
+::MUST RUN BATCH FILE AS ADMINISTRATOR
 @ECHO off
 cls
 ver | findstr /i "6\.1\." > nul
