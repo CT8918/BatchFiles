@@ -1,5 +1,5 @@
 ::Batch File to create options Enable or Disable Sticky Keys.
-::Initial Creator: Clayton D. Terrill - May need updated for future. Valid as of August 2016
+::Initial Creator: Clayton D. Terrill - May need updated for future. Valid as of August 2016.
 @ECHO off
 :: -------------------------------------
 :: Check Windows Version
